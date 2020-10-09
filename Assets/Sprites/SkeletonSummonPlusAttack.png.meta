@@ -1,0 +1,571 @@
+fileFormatVersion: 2
+guid: 074735adfeeeee346b4be211eaadf50d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3202555035742832765
+    second: SkeletonSummonPlusAttack_0
+  - first:
+      213: -259158030200226116
+    second: SkeletonSummonPlusAttack_1
+  - first:
+      213: 6802748772166815097
+    second: SkeletonSummonPlusAttack_2
+  - first:
+      213: -583149084973346954
+    second: SkeletonSummonPlusAttack_3
+  - first:
+      213: 8098893958177085920
+    second: SkeletonSummonPlusAttack_4
+  - first:
+      213: -6174046844075765057
+    second: SkeletonSummonPlusAttack_5
+  - first:
+      213: 5024352795660682278
+    second: SkeletonSummonPlusAttack_6
+  - first:
+      213: -1597717739857915492
+    second: SkeletonSummonPlusAttack_7
+  - first:
+      213: -7920415952221023605
+    second: SkeletonSummonPlusAttack_8
+  - first:
+      213: -8097887181247225477
+    second: SkeletonSummonPlusAttack_9
+  - first:
+      213: 1102274247476694959
+    second: SkeletonSummonPlusAttack_10
+  - first:
+      213: 1101484098769766180
+    second: SkeletonSummonPlusAttack_11
+  - first:
+      213: -7030488686823500220
+    second: SkeletonSummonPlusAttack_12
+  - first:
+      213: -6993897168405982686
+    second: SkeletonSummonPlusAttack_13
+  - first:
+      213: 2174586647920745222
+    second: SkeletonSummonPlusAttack_14
+  - first:
+      213: -4298913437790466746
+    second: SkeletonSummonPlusAttack_15
+  - first:
+      213: 2116412094023031921
+    second: SkeletonSummonPlusAttack_16
+  - first:
+      213: -7669238937426625025
+    second: SkeletonSummonPlusAttack_17
+  - first:
+      213: 7735775051089781205
+    second: SkeletonSummonPlusAttack_18
+  - first:
+      213: 3971635200997083469
+    second: SkeletonSummonPlusAttack_0
+  - first:
+      213: -2968447001665567827
+    second: SkeletonSummonPlusAttack_1
+  - first:
+      213: -5284755436437070189
+    second: SkeletonSummonPlusAttack_2
+  - first:
+      213: -6879016498793640039
+    second: SkeletonSummonPlusAttack_3
+  - first:
+      213: 6872760195782781230
+    second: SkeletonSummonPlusAttack_4
+  - first:
+      213: -4313327203287260180
+    second: SkeletonSummonPlusAttack_5
+  - first:
+      213: 1380014362981785192
+    second: SkeletonSummonPlusAttack_6
+  - first:
+      213: 4508445143038111725
+    second: SkeletonSummonPlusAttack_7
+  - first:
+      213: 7690962686557954274
+    second: SkeletonSummonPlusAttack_8
+  - first:
+      213: -4109905850581973090
+    second: SkeletonSummonPlusAttack_9
+  - first:
+      213: 3132672587780133717
+    second: SkeletonSummonPlusAttack_10
+  - first:
+      213: -6941282510209484829
+    second: SkeletonSummonPlusAttack_11
+  - first:
+      213: -6730400547672592066
+    second: SkeletonSummonPlusAttack_12
+  - first:
+      213: -2053670752841128935
+    second: SkeletonSummonPlusAttack_13
+  - first:
+      213: 2601515340717821107
+    second: SkeletonSummonPlusAttack_14
+  - first:
+      213: 6685797968875601217
+    second: SkeletonSummonPlusAttack_15
+  - first:
+      213: -6525521769974862044
+    second: SkeletonSummonPlusAttack_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SkeletonSummonPlusAttack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d494ed43c251e1730800000000000000
+      internalID: 3971635200997083469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonSummonPlusAttack_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 100
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da38623fd25fdc6d0800000000000000
+      internalID: -2968447001665567827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonSummonPlusAttack_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e9a5e2ee6c8a6b0800000000000000
+      internalID: -5284755436437070189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonSummonPlusAttack_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 100
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f8a51e0f2d880a0800000000000000
+      internalID: -6879016498793640039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonSummonPlusAttack_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29a3101cf2f06f50800000000000000
+      internalID: 6872760195782781230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonSummonPlusAttack_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 100
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3a808f2cbf324c0800000000000000
+      internalID: -4313327203287260180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonSummonPlusAttack_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e577260cbc62310800000000000000
+      internalID: 1380014362981785192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonSummonPlusAttack_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def2f1888f6319e30800000000000000
+      internalID: 4508445143038111725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonSummonPlusAttack_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e02211a0d9cbba60800000000000000
+      internalID: 7690962686557954274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonSummonPlusAttack_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 50
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9703c3776ea6f6c0800000000000000
+      internalID: -4109905850581973090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonSummonPlusAttack_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 50
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5531d38fe1d797b20800000000000000
+      internalID: 3132672587780133717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonSummonPlusAttack_11
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 50
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7f45d555c9baf90800000000000000
+      internalID: -6941282510209484829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonSummonPlusAttack_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3171ef6c50d892a0800000000000000
+      internalID: -6730400547672592066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonSummonPlusAttack_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914ab43c455ef73e0800000000000000
+      internalID: -2053670752841128935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonSummonPlusAttack_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc07314b607a1420800000000000000
+      internalID: 2601515340717821107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonSummonPlusAttack_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dbbde64d9b8cc50800000000000000
+      internalID: 6685797968875601217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonSummonPlusAttack_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fe19e1680b075a0800000000000000
+      internalID: -6525521769974862044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
