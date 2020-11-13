@@ -16,7 +16,7 @@ public class PlayerMovement : MonoBehaviour
     Rigidbody2D rb = null;
     //truee or false if the char is in the air
     bool inAir = false;
-    float scaleX = 0;
+    float scaleX = 1;
 
     // Start is called before the first frame update
     void Start()
