@@ -1,0 +1,445 @@
+fileFormatVersion: 2
+guid: c9ff333efbe5c5342a39612a696a20fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5101054955603677953
+    second: tilseset_rock_0
+  - first:
+      213: 5959377084562368514
+    second: tilseset_rock_1
+  - first:
+      213: -4031655280740272493
+    second: tilseset_rock_2
+  - first:
+      213: -3873248760917217210
+    second: tilseset_rock_3
+  - first:
+      213: -6423430486512296599
+    second: tilseset_rock_4
+  - first:
+      213: -6629813129624097211
+    second: tilseset_rock_5
+  - first:
+      213: -8175452685862309421
+    second: tilseset_rock_6
+  - first:
+      213: 157973298262600226
+    second: tilseset_rock_7
+  - first:
+      213: -6912271873824180538
+    second: tilseset_rock_8
+  - first:
+      213: -2723766555968321058
+    second: tilseset_rock_0
+  - first:
+      213: -3649354786545144222
+    second: tilseset_rock_1
+  - first:
+      213: -8584155666577716430
+    second: tilseset_rock_2
+  - first:
+      213: -1440856380463993816
+    second: tilseset_rock_3
+  - first:
+      213: 5337815660738960081
+    second: tilseset_rock_4
+  - first:
+      213: -6997252420020920238
+    second: tilseset_rock_5
+  - first:
+      213: -4511161711182297342
+    second: tilseset_rock_6
+  - first:
+      213: 4769650742381965677
+    second: tilseset_rock_7
+  - first:
+      213: 3912820704595779887
+    second: tilseset_rock_8
+  - first:
+      213: -4887768259811707993
+    second: tilseset_rock_9
+  - first:
+      213: 3362238514637013310
+    second: tilseset_rock_10
+  - first:
+      213: 1268127088762955536
+    second: tilseset_rock_11
+  - first:
+      213: -8001146758603091599
+    second: tilseset_rock_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 240
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tilseset_rock_0
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1520
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed94b6c9fbc333ad0800000000000000
+      internalID: -2723766555968321058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilseset_rock_1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1520
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26eea902823ea5dc0800000000000000
+      internalID: -3649354786545144222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilseset_rock_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1520
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b8afce6e3fed880800000000000000
+      internalID: -8584155666577716430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilseset_rock_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1280
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ca61681cc010ce0800000000000000
+      internalID: -1440856380463993816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilseset_rock_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1280
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dadcdeff0bb31a40800000000000000
+      internalID: 5337815660738960081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilseset_rock_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1280
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25029ec3ff3c4ee90800000000000000
+      internalID: -6997252420020920238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilseset_rock_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1040
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207c2a823522561c0800000000000000
+      internalID: -4511161711182297342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilseset_rock_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1040
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61fa5a5414313240800000000000000
+      internalID: 4769650742381965677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilseset_rock_8
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1040
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21a93723b12d4630800000000000000
+      internalID: 3912820704595779887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilseset_rock_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a37e790aa82b2cb0800000000000000
+      internalID: -4887768259811707993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilseset_rock_10
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31831b7d1219ae20800000000000000
+      internalID: 3362238514637013310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilseset_rock_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01724cf4eda499110800000000000000
+      internalID: 1268127088762955536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilseset_rock_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 80
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171d1b93a6736f090800000000000000
+      internalID: -8001146758603091599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 06e47524810942449b226c5a86a4a3f0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
